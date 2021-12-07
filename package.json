@@ -1,0 +1,25 @@
+{
+	"name": "php-e-commerce",
+	"version": "1.0.0",
+	"description": "Pure PHP E-Commerce",
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.17.1",
+		"node-sass": "^7.0.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "sass ./sass/style.scss ./css/style.css --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Abdallah-yassin/php-e-commerce.git"
+	},
+	"author": "abdallah",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Abdallah-yassin/php-e-commerce/issues"
+	},
+	"homepage": "https://github.com/Abdallah-yassin/php-e-commerce#readme"
+}
